@@ -6,6 +6,7 @@ public class Test {
 
 
 		System.out.println("mic l   le");
+		System.out.println("mic l   le");
 
 	}
 
